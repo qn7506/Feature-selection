@@ -38,5 +38,6 @@ Feature selection methods consistently identified demographic variables and inco
 
 ## Files
 - "Analytical Report.docx" - analysis report
-- "Code.ipbny" - code analysis
-- "
+- "Code.ipynb" - code analysis
+- "election2000-1.csv" - original dataset
+- "election2000_test.csv" - test data
